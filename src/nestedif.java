@@ -1,7 +1,7 @@
 
 //example of nested if
 
-public class nested_if {
+public class nestedif {
     public static void main(String[] args) {
         byte number1=10;
         byte number2=5;
