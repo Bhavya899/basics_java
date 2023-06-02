@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.practice.daytwo.iml" filepath="$PROJECT_DIR$/com.practice.daytwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics_of_java.iml" filepath="$PROJECT_DIR$/basics_of_java.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-
+package com.practice.daytwo;
 //example of nested if
 
 public class nestedif {

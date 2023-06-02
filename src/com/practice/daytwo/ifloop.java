@@ -1,4 +1,4 @@
-
+package com.practice.daytwo;
 //example of if statement
 
 public class ifloop {

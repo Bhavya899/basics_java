@@ -1,4 +1,4 @@
-
+package com.practice.daytwo;
 //for loop example
 
 public class forloop {
